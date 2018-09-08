@@ -40,7 +40,7 @@
         <div class="col-md-5">
           <h3>San José</h3>
           <p>La arquitectura de carácter histórico, principalmente neoclásico, puede apreciarse en el Centro Histórico de San José que data de 1850 y tiene un perímetro de diez manzanas de ancho por diez manzanas de largo, el cual alberga los edificios y plazas más antiguos e importantes de la ciudad.</p>
-          <a class="btn btn-primary" href="#">Ver Más...</a>
+          <a class="btn btn-primary" href="#">Ver Más</a>
         </div>
       </div>
       <!-- /.row -->
