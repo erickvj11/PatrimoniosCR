@@ -104,7 +104,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Heredia/ferro" alt=""></a>
+            <a href="#"><img class="card-img-top" src="img/Heredia/ferro.jpg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Antigua Estación del Ferrocarril</a>
@@ -140,7 +140,7 @@
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Heredia/gobernacion" alt=""></a>
+            <a href="#"><img class="card-img-top" src="img/Heredia/gobernacion.jpg" alt=""></a>
             <div class="card-body">
               <h4 class="card-title">
                 <a href="#">Gobernación, Correos y Telégrafos</a>
