@@ -90,67 +90,83 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Puntarenas/Antigua Capitania de Puerto Puntarenas.jpg" alt=""></a>
+            <img class="card-img-top" src="img/Puntarenas/Antigua Capitania de Puerto Puntarenas.jpg" alt="Capitania del Puerto"></a>
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Capitania del Puerto</a>
+                Capitania del Puerto
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
+              <p class="card-text">Fue construido a principios de la década de 1930 en concreto armado.<br>
+             Decretado como Patrimonio Arquitectónico de la Provincia de Puntarenas en el año 1994. <br>
+             fueron las oficinas de inspección y control del muelle de Puntarenas durante muchos años. </p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Puntarenas/Catedral_Puntarenas.jpg" alt=""></a>
+            <img class="card-img-top" src="img/Puntarenas/Catedral_Puntarenas.jpg" alt=La Catedral"">
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">La Catedral</a>
+                La Catedral
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              <p class="card-text">Fue construida en el año 1902.<br>
+              Decretado como Patrimonio Arquitectónico de la Provincia de Puntarenas en el año 2002.<br>
+              Tiene la particularidad de estar edificada con la fachada hacia el oriente.
+              </p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Puntarenas/El-Muelle-de-Puntarenas.jpg" alt=""></a>
+            <img class="card-img-top" src="img/Puntarenas/El-Muelle-de-Puntarenas.jpg" alt="El Muelle">
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">El Muelle</a>
+               El Muelle
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos quisquam, error quod sed cumque, odio distinctio velit nostrum temporibus necessitatibus et facere atque iure perspiciatis mollitia recusandae vero vel quam!</p>
+              <p class="card-text">En el año 1928, se inició la construcción del muelle grande.<br>
+              Decretado como Patrimonio Arquitectónico de la Provincia de Puntarenas en el año 1994.<br>
+              Fue una de las principales fuentes de empleo de la provincia de Puntarenas.
+              </p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Puntarenas/Aduana_Puntarenas.jpg" alt=""></a>
+            <img class="card-img-top" src="img/Puntarenas/Aduana_Puntarenas.jpg" alt="Antigua Aduana">
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Antigua Aduana</a>
+                Antigua Aduana
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              <p class="card-text">Fue construida en el año 1936.<br>
+              Decretado como Patrimonio Arquitectónico de la Provincia de Puntarenas en el año 2014.<br>
+              Actualmente es el edificio de la Universidad Técnica Nacional (UTN).
+              </p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Puntarenas/Casa_Fait._Puntarenas._Costa_Rica_03.jpg" alt=""></a>
+            <img class="card-img-top" src="img/Puntarenas/Casa_Fait._Puntarenas._Costa_Rica_03.jpg" alt="Casa Fait">
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Casa Fait</a>
+                Casa Fait
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+              <p class="card-text">Se construyó entre 1924 y 1925. <br>
+              Fue declarado patrimonio en el 2003. <br>
+              Se ubica frente al estero de Puntarenas.
+              </p>
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-sm-6 portfolio-item">
           <div class="card h-100">
-            <a href="#"><img class="card-img-top" src="img/Puntarenas/Mercado de puntarenas mega.jpg" alt=""></a>
+            <img class="card-img-top" src="img/Puntarenas/Mercado de puntarenas mega.jpg" alt="Mercado de Puntarenas">
             <div class="card-body">
               <h4 class="card-title">
-                <a href="#">Mercado</a>
+                Mercado de Puntarenas
               </h4>
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque earum nostrum suscipit ducimus nihil provident, perferendis rem illo, voluptate atque, sit eius in voluptates, nemo repellat fugiat excepturi! Nemo, esse.</p>
+              <p class="card-text"> El inmueble se levantó en 1907.<br>
+              Decretado como Patrimonio Arquitectónico de la Provincia de Puntarenas en el año 2011<br></p>
+              En él destaca la técnica constructiva conocida como bahareque francés.
             </div>
           </div>
         </div>
