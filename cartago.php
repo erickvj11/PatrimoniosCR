@@ -94,13 +94,84 @@
       </div>
     </header>
 
-    <!-- Page Content -->
-    <section class="py-5">
-      <div class="container">
-        <h1>Provincia de Cartago</h1>
-        <p>Cartago es una ciudad costarricense, capital del cantón y de la provincia homónima. Se encuentra localizada en el Valle del Guarco, en la región central de Costa Rica. Geográficamente está a una altitud de 1,435 m sobre el nivel del mar, en las faldas del Volcán Irazú, a 24 km al sureste de la ciudad de San José.</p>
+<!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading -->
+      <h1 class="my-4">Cartago
+        <small>Arquitéctonica</small>
+      </h1>
+
+      <div class="row">
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/Cartago/basilica.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Basilica</a>
+              </h4>
+              <p class="card-text">La Basílica de Nuestra Señora de los Ángeles es un templo católico de la ciudad de Cartago, Costa Rica</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/Cartago/colegio-gonzaga.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Colegio San Luis Gonzága</a>
+              </h4>
+              <p class="card-text">El Colegio de San Luis Gonzaga nació en los aciagos días de 1842. Se terminó de construir en 1928, en 1929 fue ocupado e inaugurado en 1930.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/Cartago/cuartel.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">El Cuartel</a>
+              </h4>
+              <p class="card-text">Construido en Cartago entre 1912 y 1915 que funcionó como cuartel militar ahora es la sede de un museo histórico y una moderna biblioteca</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/Cartago/Pirie.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Edificio Pirie</a>
+              </h4>
+              <p class="card-text">Se estima que fue construido entre 1860 y 1870 con una técnica conocida como calicanto que utiliza piedras y lleva un repello de cal y arena.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/Cartago/ruinas.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Las Ruinas</a>
+              </h4>
+              <p class="card-text">Están constituidas por los muros y escalinatas de un templo de estilo románico, cuya construcción se inició en la segunda mitad del siglo XIX y fue interrumpida por 3 terremoto</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/Cartago/IglesiaMA.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Iglesia Maria Auxiliadora</a>
+              </h4>
+              <p class="card-text">El 24 de Mayo se erige oficialmente la Parroquia de María Auxiliadora, nombrándose como Primer Cura Párroco al Presbítero Luis Martínez Ortega, de grata memoria.</p>
+            </div>
+          </div>
+        </div>
       </div>
-    </section>
+      <!-- /.row -->
+
 
     <!-- Footer -->
     <?php include('footer.php'); ?>
