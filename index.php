@@ -57,7 +57,7 @@
         <div class="col-md-5">
           <h3>Alajuela</h3>
           <p>La mayoría de los sitios de interés cultural están ubicados en las cercanías del Parque Central. A sus costados se encuentran la catedral (Este), el Museo Histórico Cultural Juan Santamaría (Norte), el Centro Alajuelense de la Cultura (Oeste) y el llamado Edificio de Balcones (Sur).</p>
-          <a class="btn btn-primary" href="#">Ver Más...</a>
+          <a class="btn btn-primary" href="alajuela.php">Ver Más...</a>
         </div>
       </div>
       <!-- /.row -->
@@ -92,7 +92,7 @@
         <div class="col-md-5">
           <h3>Heredia</h3>
           <p>La colocación de la primera piedra e inicio de la construcción del Templo Parroquial de la Inmaculada en Heredia, data del 31 de octubre de 1797 y según parece, ya prestaba servicio para el año 1806. El terremoto de 1851 el 18 de marzo, destruyó la fachada que luce actualmente.</p>
-          <a class="btn btn-primary" href="#">Ver Más...</a>
+          <a class="btn btn-primary" href="heredia.php">Ver Más...</a>
         </div>
       </div>
       <!-- /.row -->
@@ -110,7 +110,7 @@
         <div class="col-md-5">
           <h3>Guanacaste</h3>
           <p>Guanacaste es cuna de muchos aspectos del folclor de Costa Rica, tales como la música, instrumentos como la marimba y el quijongo, danzas tradicionales como el punto guanacasteco, la gastronomía derivada del maíz y del ganado, y la cultura propia de la vida de la hacienda y el campo.</p>
-          <a class="btn btn-primary" href="#">Ver Más...</a>
+          <a class="btn btn-primary" href="guanacaste.php">Ver Más...</a>
         </div>
       </div>
       <!-- /.row -->
