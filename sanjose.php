@@ -82,12 +82,82 @@
     </header>
 
     <!-- Page Content -->
-    <section class="py-5">
-      <div class="container">
-        <h1>Provincia de San José</h1>
-        <p>San José es la provincia número 1 de Costa Rica. Se encuentra ubicada en el centro del país. Limita con las provincias de Alajuela, Heredia, Cartago, Limón y Puntarenas. Posee una superficie de 4.965,9 km², y una población de 1.404.242 habitantes , la más poblada del país. Está dividida en 20 cantones y 111 distritos. En la provincia se encuentra la ciudad de San José, capital de Costa Rica, la cual concentra los tres Poderes de la República y al Tribunal Supremo de Elecciones</p>
+   <div class="container">
+
+      <!-- Page Heading -->
+      <h1 class="my-4">San José
+        <small>Arquitéctonico</small>
+      </h1>
+
+      <div class="row">
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/SanJose/cine.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Centro Costarricense de Producción Cinematográfica</a>
+              </h4>
+              <p class="card-text">Es un ente independiente en sus funciones, aunque continúa adscrito al Ministerio de Cultura y Juventud. Tiene como objetivo resguardar e incentivar la producción audiovisual y cinematográfica de Costa Rica.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/SanJose/Hospicio.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Hospicio Huérfanos de San José</a>
+              </h4>
+              <p class="card-text">Institución social fundada el 2 de marzo de 1887 en la capital de San José, Costa Rica. La Fundación Hospicio de Huérfanos de San José es fiel a los principios que le dio origen, forma parte de su lema principal “socorrer y educar a personas menores de edad, huérfanos, abandonados o en riesgo social".</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/SanJose/hospital.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Hospital Rafael Ángel Calderón Guardia</a>
+              </h4>
+              <p class="card-text">Este hospital le debe su nombre al Dr. Rafael Ángel Calderón Guardia, Creador de la Caja Costarricense del Seguro Social, Benemérito de la Patria, Presidente de la República de Costa Rica (1940-1944), y se le considera el mayor reformador social de Costa Rica.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/SanJose/Parque.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Parque Nacional</a>
+              </h4>
+              <p class="card-text">Parque emblemático fundado en 1895, que alberga el Monumento Nacional de bronce de Costa Rica.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/SanJose/correos.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Edificio de Correos y Telégrafos de Costa Rica</a>
+              </h4>
+              <p class="card-text">El Edificio de Correos y Telégrafos de Costa Rica es uno de los edificios históricos más emblemáticos de la ciudad de San José. La obra fue iniciada en 1914, al final de la Belle Époque, bajo la gestión del Presidente Alfredo González Flores y acabado en octubre 1917, el edificio estuvo concebido por el arquitecto de origen catalán Luis Llach Llagostera en un estilo neo-renacentista afrancesado.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="img/SanJose/arte.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a href="#">Museo de Arte Costarricense</a>
+              </h4>
+              <p class="card-text">El Museo de Arte Costarricense (siglas MAC) es la principal institución de Costa Rica dedicada a la conservación, exhibición y promoción de las artes plásticas de este país. Su colección está compuesta por alrededor de 6.000 obras de arte de artistas nacionales e internacionales en todas las disciplinas artísticas, incluyendo principalmente pintura, escultura y fotografía, creadas en su mayoría entre finales del siglo XIX y la actualidad.</p>
+            </div>
+          </div>
+        </div>
       </div>
-    </section>
+    </div>
 
 
     <?php include("footer.php") ?>
