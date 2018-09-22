@@ -74,7 +74,7 @@
         <div class="col-md-5">
           <h3>Cartago</h3>
           <p>La ciudad consta de un centro histórico con 22 avenidas y 26 calles, que se extiende en sentido este-oeste desde el Cementerio General hasta la Basílica de los Ángeles (3 km) y en sentido norte-sur desde la Antigua Comandancia al Nuevo Plantel Municipal (3 km), para un centro histórico de aproximadamente 3 km².</p>
-          <a class="btn btn-primary" href="#">Ver Más...</a>
+          <a class="btn btn-primary" href="cartago.php">Ver Más...</a>
         </div>
       </div>
       <!-- /.row -->
@@ -146,7 +146,7 @@
         <div class="col-md-5">
           <h3>Limón</h3>
           <p>La ciudad de Limón cuenta con varios edificios de estilo victoriano que fueron adaptados al clima húmedo y cálido de la región, dando lugar al estilo arquitectónico victoriano-caribeño. Este estilo se caracteriza por los techos altos con ornamentos de madera a modo de encajes, generosos corredores, torrecillas, barandas y sistemas de ventilación cruzada.</p>
-          <a class="btn btn-primary" href="#">Ver Más...</a>
+          <a class="btn btn-primary" href="limon.php">Ver Más...</a>
         </div>
       </div>
       <!-- /.row -->
