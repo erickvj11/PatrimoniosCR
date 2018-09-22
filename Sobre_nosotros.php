@@ -43,13 +43,13 @@
       </div>
       
       <div class="container">
-        <h1 class = "my-3">MISION</h1>
+        <h1 class = "my-3">MISIÓN</h1>
         <p>Nuestra misión es fomentar el conocimiento y valoración de los bienes culturales y naturales que se consideran patrimonio mundial, nacional y regional, con el propósito de concientizar a la población del país acerca de la herencia y tradiciones materiales e inmateriales y la importancia de su conservación y salvaguarda.</p>
         <hr>
       </div>
 
       <div class="container">
-        <h1 class = "my-3">VISION</h1>
+        <h1 class = "my-3">VISIÓN</h1>
         <p>Constituimos una Organización que vela por la inclusión del tema del patrimonio cultural. La defensa del patrimonio es una tarea que debe asumirse desde una perspectiva transdisciplinaria, con el apoyo de tareas de sensibilización, investigación, divulgación, dinamización del patrimonio de las distintas regiones y comunidades.</p>
       </div>
     </section>
